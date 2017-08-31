@@ -1,0 +1,3 @@
+version=2
+opts=filenamemangle=s/.+\/v?(\d\S+)\.tar\.gz/latte-dock-$1\.tar\.gz/ \
+  https://github.com/psifidotos/Latte-Dock/tags .*/v?(\d\S+)\.tar\.gz

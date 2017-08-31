@@ -1,0 +1,68 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: latte-dock
+Source: https://github.com/psifidotos/Latte-Dock
+
+Files: *
+Copyright: 2014, David Edmundson <davidedmudnson@kde.org>
+           1989-1991, Free Software Foundation, Inc., <http://fsf.org/>
+           2012, Marco Martin <mart@kde.org>
+           Michail Vourlakos <mvourlakos@gmail.com>
+           2016, Smith AR <audoban@openmaibox.org>
+License: GPL-2+
+
+Files: debian/*
+Copyright: 2017 Rik Mills <rikmills@kubuntu.org>
+License: GPL-2+
+
+Files: app/alternativeshelper.cpp
+       app/alternativeshelper.h
+       app/panelshadows.cpp
+       app/panelshadows_p.h
+       app/plasmaquick/configview.h
+       app/screenpool.cpp
+       app/screenpool.h
+       plasmoid/contents/ui/ToolTipDelegate2.qml
+       plasmoid/contents/ui/ToolTipInstance.qml
+Copyright: 2011, Aaron Seigo <aseigo@kde.org>
+           2016, Kai Uwe Broulik <kde@privat.broulik.de>
+           2013-2016, Marco Martin <mart@kde.org>
+           2014, Martin Gräßlin <mgraesslin@kde.org>
+           2017, Roman Gilg <subdiff@gmail.com>
+           2013, Sebastian Kügler <sebas@kde.org>
+License: LGPL-2+
+
+License: GPL-2+
+ This package is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation; either version 2 of the License, or
+ (at your option) any later version.
+ .
+ This package is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program. If not, see <https://www.gnu.org/licenses/>
+ .
+ On Debian systems, the complete text of the GNU General
+ Public License version 2 can be found in "/usr/share/common-licenses/GPL-2".
+ 
+License: LGPL-2+
+ This program is free software; you can redistribute it and/or
+ modify it under the terms of the GNU Library General Public
+ License as published by the Free Software Foundation; either
+ version 2 of the License, or (at your option) any later version.
+ .
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ Library General Public License for more details.
+ .
+ You should have received a copy of the GNU Library General Public License
+ along with this program; see the file COPYING.  If not, write to
+ the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ Boston, MA 02110-1301, USA.
+ .
+ On Debian systems, the complete text of the GNU Library General Public
+ License version 2 can be found in "/usr/share/common-licenses/LGPL-2".
